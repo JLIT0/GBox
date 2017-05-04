@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ConnectWifi</class>
+ <widget class="QDialog" name="ConnectWifi">
+  <property name="windowModality">
+   <enum>Qt::ApplicationModal</enum>
+  </property>
+  <property name="enabled">
+   <bool>true</bool>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>234</width>
+    <height>112</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string extracomment="Connect wifi dialog title">Connect</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
